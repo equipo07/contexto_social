@@ -873,6 +873,27 @@ a {
 .cid-saCco72vPE .mbr-text {
   text-align: left;
 }
+.cid-saFwoWuio5 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-saFwoWuio5 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-saFwoWuio5 .row {
+  flex-direction: row-reverse;
+}
+.cid-saFwoWuio5 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-saFwoWuio5 .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-saCePKbAPp {
   padding-top: 0rem;
   padding-bottom: 0rem;
